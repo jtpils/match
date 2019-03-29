@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="lm" name="lm" type="lm_node" output="screen"/>
+</launch>

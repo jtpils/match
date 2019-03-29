@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="svd" name="svd" type="svd_node" output="screen"/>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="ndt" name="ndt" type="ndt_node" output="screen"/>
+</launch>
